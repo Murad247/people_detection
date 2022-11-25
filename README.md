@@ -6,6 +6,5 @@
 results-step_1.txt и  results-step_2.txt - файлы результатов обучения YOLOv7 на Okutama-Action и предоставленном наборе
 
 # Ссылки
-1) веса лучшей модели https://disk.yandex.ru/d/InRm7CvdDkX7aw
-2) данный для первого этапа обучения https://disk.yandex.ru/d/CjuAiRn-OtOoPg 
-3) данный для второго этапа обучения https://disk.yandex.ru/d/UjmqQxbmU9QLcw
+1) Датасет https://disk.yandex.ru/d/K-t4z4EkBt1jag
+2) Веса моделей https://disk.yandex.ru/d/ql9OzAHgeiFNLg
